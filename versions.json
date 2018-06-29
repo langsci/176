@@ -1,4 +1,9 @@
 {"versions": [{"versiontype": "proofreading", 
-	      "title": "The Unicode cookbook",
-	      "authors": [{"name":"Steven Moran"},{"name":"Michael Cysouw"}],
-	      "publishedAt": "2018-04-18T18:53:03.000Z"}]}
+              "title": "The Unicode cookbook",
+              "authors": [{"name":"Steven Moran"},{"name":"Michael Cysouw"}],
+              "publishedAt": "2018-04-18T18:53:03.000Z"},
+              {"versiontype": "first_edition", 
+              "title": "The Unicode cookbook",
+              "authors": [{"name":"Steven Moran"},{"name":"Michael Cysouw"}],
+              "publishedAt": "2018-06-28T18:53:03.000Z"}              
+	      ]}
